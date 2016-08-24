@@ -6,9 +6,9 @@ color:
   saturation: 0.7850122877862304
   rhythmicContrast: 0.8504723999649286
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
 name: Sleepy Whale
