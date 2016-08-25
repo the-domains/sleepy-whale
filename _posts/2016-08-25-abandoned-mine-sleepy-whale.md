@@ -1,16 +1,16 @@
 ---
-datePublished: '2016-08-25T03:47:47.567Z'
+datePublished: '2016-08-25T03:59:31.950Z'
+sourcePath: _posts/2016-08-25-abandoned-mine-sleepy-whale.md
 inFeed: true
 author: []
 at__type: Article
 via: {}
-dateModified: '2016-08-25T03:47:05.639Z'
+dateModified: '2016-08-25T03:59:31.510Z'
 title: Abandoned Mine - Sleepy Whale
 publisher: {}
 at__context: 'http://schema.org'
-description: 'https://soundcloud.com/sleepy-whale/abandoned-mine'
+description: ' Listen'
 starred: false
-sourcePath: _posts/2016-08-25-abandoned-mine-sleepy-whale.md
 _type: Blurb
 
 ---
@@ -18,4 +18,8 @@ _type: Blurb
 
 # Abandoned Mine - Sleepy Whale
 
-> https://soundcloud.com/sleepy-whale/abandoned-mine
+> [Listen][0]
+
+
+
+[0]: https://soundcloud.com/sleepy-whale/abandoned-mine "Listen"
