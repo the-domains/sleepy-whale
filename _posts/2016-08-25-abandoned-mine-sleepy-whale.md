@@ -1,15 +1,15 @@
 ---
-datePublished: '2016-08-25T03:59:31.950Z'
+datePublished: '2016-08-25T04:01:19.962Z'
 sourcePath: _posts/2016-08-25-abandoned-mine-sleepy-whale.md
 inFeed: true
 author: []
 at__type: Article
 via: {}
-dateModified: '2016-08-25T03:59:31.510Z'
+dateModified: '2016-08-25T04:01:19.823Z'
 title: Abandoned Mine - Sleepy Whale
 publisher: {}
 at__context: 'http://schema.org'
-description: ' Listen'
+description: Listen
 starred: false
 _type: Blurb
 
