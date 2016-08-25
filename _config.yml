@@ -1,16 +1,14 @@
+name: Sleepy Whale
 layout_spectrum: 0.03866045456379652
 typography_spectrum: 0.04840537556447089
 color:
-  brandStrength: 0.6784953735768795
-  lightness: 0.044781654607504606
-  saturation: 0.376914544031024
-  rhythmicContrast: 0.6518168756738305
   brandColors:
     - '#000000'
     - '#263248'
     - '#7E8AA2'
     - '#FFFFFF'
     - '#FF9800'
-coverPrefs:
-  filter: false
-name: Sleepy Whale
+  brandStrength: 0.6784953735768795
+  lightness: 0.044781654607504606
+  saturation: 0.376914544031024
+  rhythmicContrast: 0.6518168756738305
