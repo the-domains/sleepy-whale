@@ -1,15 +1,15 @@
 ---
-datePublished: '2016-08-25T04:22:40.082Z'
+datePublished: '2016-08-25T04:24:11.499Z'
 sourcePath: _posts/2016-08-25-stay-inside-sleepy-whale.md
 inFeed: true
 author: []
 at__type: Article
 via: {}
-dateModified: '2016-08-25T04:22:39.686Z'
+dateModified: '2016-08-25T04:24:10.977Z'
 title: Stay Inside - Sleepy Whale
 publisher: {}
 at__context: 'http://schema.org'
-description: 'Listen https://soundcloud.com/sleepy-whale/stay-inside'
+description: 'https://soundcloud.com/sleepy-whale/stay-inside'
 starred: false
 _type: Blurb
 
@@ -18,10 +18,4 @@ _type: Blurb
 
 # Stay Inside - Sleepy Whale
 
-> [Listen ][0]
-> 
 > https://soundcloud.com/sleepy-whale/stay-inside
-
-
-
-[0]: https://soundcloud.com/sleepy-whale/stay-inside
