@@ -1,24 +1,26 @@
+layout_spectrum: 0.09916924475692213
+typography_spectrum: 0.04840537556447089
+color:
+  brandColors:
+    - '#595241'
+    - '#B8AE9C'
+    - '#FFFFFF'
+    - '#ACCFCC'
+    - '#8A0917'
+  brandStrength: 0.05579140456393361
+  lightness: 0.8512647885363549
+  saturation: 0.1849021369125694
+  rhythmicContrast: 0.8143705769907683
+coverPrefs:
+  filter: false
 name: Sleepy Whale
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/4cdbdf20-42bd-4b19-934c-ddcfad4aa14e.png
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/994824af-b514-444d-b938-2db635a78412.png
-layout_spectrum: 0.03866045456379652
-typography_spectrum: 0.04840537556447089
 opengraph:
   type: ''
   appId: ''
-color:
-  brandColors:
-    - '#000000'
-    - '#263248'
-    - '#7E8AA2'
-    - '#FFFFFF'
-    - '#FF9800'
-  brandStrength: 0.6784953735768795
-  lightness: 0.044781654607504606
-  saturation: 0.376914544031024
-  rhythmicContrast: 0.6518168756738305
 title: love space / love sound / love love
 author:
   name: ''
