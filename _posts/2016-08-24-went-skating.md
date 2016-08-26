@@ -2,8 +2,8 @@
 at__type: Article
 at__context: 'http://schema.org'
 title: Went Skating
-datePublished: '2016-08-24T18:29:08.441Z'
-dateModified: '2016-08-24T18:29:03.908Z'
+datePublished: '2016-08-25T23:18:06.076Z'
+dateModified: '2016-08-25T23:18:05.380Z'
 publisher: {}
 author: []
 inFeed: true
@@ -11,9 +11,11 @@ description: >-
   I can't actually believe that I dropped in on the half pipe with my
   pathetically tiny skateboard last night.
 via: {}
-starred: false
 sourcePath: _posts/2016-08-24-went-skating.md
-_type: Blurb
+hasPage: true
+starred: false
+url: went-skating/index.html
+_type: Article
 
 ---
 # Went Skating
