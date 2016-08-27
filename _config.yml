@@ -1,6 +1,13 @@
+name: Sleepy Whale
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4cdbdf20-42bd-4b19-934c-ddcfad4aa14e.png
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/994824af-b514-444d-b938-2db635a78412.png
+layout_spectrum: 0.09916924475692213
 typography_spectrum: 0.04840537556447089
-content_rating:
-  adult: false
+opengraph:
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#595241'
@@ -12,23 +19,14 @@ color:
   lightness: 0.8512647885363549
   saturation: 0.1849021369125694
   rhythmicContrast: 0.8143705769907683
-opengraph:
-  type: ''
-  appId: ''
-layout_spectrum: 0.09916924475692213
+title: love space / love sound / love love
 author:
   name: ''
   url: ''
   email: ''
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/994824af-b514-444d-b938-2db635a78412.png
-name: Sleepy Whale
+content_rating:
+  adult: false
 navigation:
   - name: Blog Thing
     id: f063b7d5-c6c6-4578-a002-614c76b1c0ad
     type: content
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4cdbdf20-42bd-4b19-934c-ddcfad4aa14e.png
-title: love space / love sound / love love
-coverPrefs:
-  filter: false
